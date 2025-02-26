@@ -15,6 +15,8 @@ class Conditionals {
 
         double pf = .11 * basic;
 
+        s.close();
+
         int allowance;
 
         if(grade == 'A'){

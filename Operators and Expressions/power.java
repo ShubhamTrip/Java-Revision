@@ -10,6 +10,8 @@ class Power{
 
         int ans = 1;
 
+        s.close();
+
         while(n > 0){
 
             ans *= x;
